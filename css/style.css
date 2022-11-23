@@ -156,6 +156,7 @@ h1, h2, h3, h4, h5, h6{
     background-image: url(../images/home-img/png/Group-13.png);
     background-repeat: no-repeat;
     margin-left: 50px;
+    border-radius: 10px;
 }
 .section__two-mini{
     display: flex;
@@ -432,7 +433,6 @@ footer{
 .about__section-four-box {
     width: 285px;
     height: 107px;
-
 }
 .about__section-four-h1 {
     width: 272px;
@@ -467,6 +467,16 @@ footer{
 
 
 
+
+
+
+
+
+
+
+
+
+[;]
 
 /* retina */
 
