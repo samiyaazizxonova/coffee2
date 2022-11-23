@@ -112,6 +112,7 @@ h1, h2, h3, h4, h5, h6{
     padding-left: 85px;
     background-position: cover;
     background-repeat: no-repeat;
+    border-radius: 10px;
 }
 .section__one-title {
     width: 493px;
@@ -156,7 +157,6 @@ h1, h2, h3, h4, h5, h6{
     background-image: url(../images/home-img/png/Group-13.png);
     background-repeat: no-repeat;
     margin-left: 50px;
-    border-radius: 10px;
 }
 .section__two-mini{
     display: flex;
