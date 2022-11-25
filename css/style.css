@@ -640,6 +640,12 @@ footer{
     background-color: var(--primary-color);
     color: var(--option-defoult-color);
 }
+.section__three-right-item:active h5{ 
+    color: var(--option-defoult-color);
+}
+.section__three-right-item:active p{ 
+    color: var(--option-defoult-color);
+}
 .section3__title {
     width: 175px;
     height: 32px;
