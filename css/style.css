@@ -363,6 +363,7 @@ footer{
 /* ABOUT */
 .about__section-one{
     background-image: url(../images/about-img/png/hero-bg-img.png);
+    margin-bottom: 168px;
 }
 .about__section-one-text{
     margin-top: -50px;
